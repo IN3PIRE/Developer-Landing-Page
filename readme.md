@@ -11,5 +11,5 @@
 # Preview
 ![header](https://media.discordapp.net/attachments/1070610732380598292/1163773162039824404/github-header-image_4.png?ex=6540cb37&is=652e5637&hm=48ece7fc61ea4d84d7c2c28ac761a60f6bc748ffa32f332fbc6296e5ca736547&=&width=1918&height=642)
 
-Preview:
+
 ![a](https://media.discordapp.net/attachments/1070610732380598292/1163773313257054258/image.png?ex=6540cb5b&is=652e565b&hm=7fd05c27d77f218bd4e7528c2a2ad89f8cca625679e924ddf4eb45dbd6f6b51c&=&width=1819&height=1007)
